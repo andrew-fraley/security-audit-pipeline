@@ -1,4 +1,4 @@
-# security-audit-workflow-pipeline
+# security-audit-pipeline
 Description: This is a basic overview of my security audit workflow, it is designed to showcase my workflow pipeline for running security audits/risk assessments to be paired with developing risk management systems or general security plans for varying organizations and industries, it also pairs with certain compliance requirements like the IRS Written Information Security Plan for financial institutions.
 
 **Overview**
