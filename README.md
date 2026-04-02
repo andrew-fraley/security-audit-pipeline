@@ -10,3 +10,15 @@ This is designed primarily for small businesses and firms (especially finance/ac
 
 **Why:**
 As stated above this pairs with my IRS WISP development process but also can standalone for any organization looking to audit/assess their current security posture (and hopefully lead to implementing security practices to mitigate the risks found in the assessment).
+
+**Purpose Of The Repo**
+
+- End-to-end audit process
+
+- Risk identification and prioritization approach
+
+- Showcase the risk assessment workflow I use to conduct real-world assessments
+
+**Key Principle**
+
+This workflow focuses on identifying and prioritizing real-world business risks that can compromise compliance alignment and data security systems.
